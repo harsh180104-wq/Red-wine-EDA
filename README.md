@@ -102,4 +102,4 @@ pip install pandas matplotlib seaborn
 
 This project is for educational purposes. The Wine Quality dataset is publicly available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality).
 
-> P. Cortez, A. Cerdeira, F. Almeida, T. Matos, and J. Reis. *Modeling wine preferences by data mining from physicochemical properties.* Decision Support Systems, 47(4):547–553, 2009.
+
